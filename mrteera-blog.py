@@ -9,4 +9,4 @@ def hello_world():
 
 
 if __name__ == '__main__':
-    app.run(host='vm.mrteera.com')
+    app.run(host='vm.mrteera.com', port=5555)
